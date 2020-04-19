@@ -1,7 +1,7 @@
 # XGBoost
 Detecting Parkinson’s Disease with XGBoost
       
-      Parkinson's disease:
+   Parkinson's disease: 
        Is a brain disorder that leads to shaking, stiffness, and difficulty with walking, balance, and coordination. Parkinson's symptoms usually begin gradually and get worse over time. As the disease progresses, people may have difficulty walking and talking.It has 5 stages to it and affects more than 1 million individuals every year in India. This is chronic and has no cure yet. It is a neurodegenerative disorder affecting dopamine-producing neurons in the brain.
        
  There are three types of Boosting
